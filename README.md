@@ -9,3 +9,5 @@ and Gradient Descent as your learning algorithm
 Set random initial values for slope (m) and y-intercept (c) and train an intelligent linear regression
 model of your dataset above then plot the line of best fit
 Use the above learnt line to predict the office price when the size is 100 sq. ft.
+
+Dataset comprised random data, created from the site: https://www.mockaroo.com
